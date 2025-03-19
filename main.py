@@ -16,7 +16,7 @@ def index():
 
 def plot_stock_graph(company_name, plot_file):
     # Set your API key
-    api_key = 'PQ5M1AYGGKKUQOAV'
+    api_key = 'RAL8AFRU7F2Y9ZPI'
 
     # Create an instance of the TimeSeries class
     ts = TimeSeries(key=api_key, output_format='pandas')
